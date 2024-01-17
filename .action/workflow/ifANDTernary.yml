@@ -9,7 +9,7 @@ on:
 
 jobs:
   build-deploy:
-    name: Build an Deploy for SmartQuiz
+    name: Build an Deploy for ifANDTernary
     runs-on: ubuntu-latest
     steps:
       - name: Checking out the Code
